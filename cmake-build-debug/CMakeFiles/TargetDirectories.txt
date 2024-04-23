@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/A3_Task2_3_4_A S1_20220037_20230607_20220457/cmake-build-debug/CMakeFiles/elkholy.dir
+C:/Users/PC/Desktop/A3_Task2_3_4_A S1_20220037_20230607_20220457/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/A3_Task2_3_4_A S1_20220037_20230607_20220457/cmake-build-debug/CMakeFiles/rebuild_cache.dir
